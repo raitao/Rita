@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ritão
+- 👋 Hi, I’m @rita
 - 👀 I’m interested in Programação e esportes!
 - 🌱 I’m currently learning Html, CSS, Python.
 - 💞️ I’m looking to collaborate on com determinação e compromisso. 
